@@ -31,9 +31,7 @@ with open("File2.txt","w") as fp1:
     fp1.write(x)
 ```
 
-## OUTPUT:
-![output](./output.png)
-
+## OUTPUT:![output](https://user-images.githubusercontent.com/93427086/153347794-6172438a-79b2-4eea-bf33-4138e406edb5.png)
 
 
 ## RESULT:
